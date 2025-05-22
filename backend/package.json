@@ -1,0 +1,27 @@
+{
+  "name": "searching_for_objects",
+  "version": "1.0.0",
+  "description": "juego con IA incorporada para la deteccion de objetos con camara",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinOrosco/Searching_for_objects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinOrosco/Searching_for_objects/issues"
+  },
+  "homepage": "https://github.com/KevinOrosco/Searching_for_objects#readme",
+  "dependencies": {
+    "@huggingface/inference": "^3.13.2",
+    "dotenv": "^16.5.0",
+    "expo": "^53.0.9",
+    "expo-image-picker": "~16.1.4"
+  }
+}
